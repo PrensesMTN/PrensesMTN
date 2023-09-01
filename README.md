@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on #100DaysOfCode challange
 - 🌱 I’m currently learning C and Assembly
 - 🌱 Assembly language kinda hard to learn but I will figure it out.
-###                                                                            🐇
+###    ....🐇
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prenses-metin-35594b237/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=white&link=link)](https://instagram.com/prensesmtn?igshid=YmMyMTA2M2Y=)
