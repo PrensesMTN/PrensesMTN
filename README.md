@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="IMG/my-image.png" width="150">
+<img src="https://avatars.githubusercontent.com/u/60544998?s=96&v=4" width="150">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Prenses**]([https://www.linkedin.com/in/prenses-metin-35594b237]) and welcome to my GitHub profile! :octocat:
