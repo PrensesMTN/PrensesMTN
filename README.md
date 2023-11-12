@@ -16,8 +16,8 @@
 
 ## About Me 👑
 
-- 🔭 I’m currently working on #100DaysOfCode challange
-- 🌱 I’m currently learning C and Assembly
+- 🔭 I’m currently working on #stayalive challange
+- 🌱 I’m currently learning ESPhome with ESP8266
 - 🌱 Assembly language kinda hard to learn but I will figure it out.
   #    🐇.... 
 ## 📫 How to reach me:
