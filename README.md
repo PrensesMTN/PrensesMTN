@@ -1,6 +1,6 @@
 <div align="center">
 
-≈<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/PrensesMTN?color=975901&logo=githubb&label=FOLLOWERS"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/PrensesMTN?color=975901&logo=githubb&label=FOLLOWERS"/>
 
 <h1> Hello World! 👋 </h1>
 
@@ -12,6 +12,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Prenses**]([https://www.linkedin.com/in/prenses-metin-35594b237]) and welcome to my GitHub profile! :octocat:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Computer+Programmer%2C+;an+Open-source+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=She's+trying+to+come+to+her+senses.)](https://git.io/typing-svg)
 
 ## About Me 👑
 
