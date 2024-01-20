@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="130">
 
 
 ###  I'm [**Prenses**]([https://www.linkedin.com/in/prenses-metin-35594b237]) and welcome to my GitHub profile! :octocat:
