@@ -6,10 +6,10 @@
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/60544998?s=96&v=4" width="150">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Prenses**]([https://www.linkedin.com/in/prenses-metin-35594b237]) and welcome to my GitHub profile! :octocat:
+###  I'm [**Prenses**]([https://www.linkedin.com/in/prenses-metin-35594b237]) and welcome to my GitHub profile! :octocat:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Computer+Programmer%2C+;an+Open-source+Coder)](https://git.io/typing-svg)
 
