@@ -17,8 +17,7 @@
 ## About Me 👑
 
 - 🔭 I’m currently working on #stayalive challange
-- 🌱 I’m currently learning ESPhome with ESP8266
-- 🌱 Assembly language kinda hard to learn but I will figure it out.
+- 🌱 I’m currently learning how to improve myself 
   #    🐇.... 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prenses-metin-35594b237/)
