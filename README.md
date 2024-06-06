@@ -15,11 +15,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Computer+Programmer%2C+;an+Open-source+Coder)](https://git.io/typing-svg)
 
-
-## About Me 👑
-
-- 🔭 I’m currently working on #stayalive challange
-- 🌱 I’m currently learning how to improve myself 
   #    🐇.... 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prenses-metin-35594b237/)
