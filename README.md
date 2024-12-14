@@ -13,7 +13,7 @@
 
 ###  I'm [**Prenses**]([https://www.linkedin.com/in/prenses-metin-35594b237]) and welcome to my GitHub profile! :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Computer+Programmer%2C+;an+Open-source+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=This+year,%2C+;to+save+me+from+tears)](https://git.io/typing-svg)
 
   #    🐇.... 
 ## 📫 How to reach me:
